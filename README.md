@@ -97,7 +97,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
            <td align="center">
-                <a href="https://github.com/account">
+                <a href="https://github.com/RutujaPawale">
                     <img src="https://avatars.githubusercontent.com/u/108484457?v=4" width="100px;" alt="Rutuja Pawale"/>
                     <br />
                     <sub><b>Rutuja Pawale</b></sub>
